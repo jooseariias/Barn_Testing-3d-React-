@@ -1,0 +1,40 @@
+*{
+  background-color: rgb(44, 43, 43);
+}
+
+canvas{
+  width: 100%;
+ 
+}
+
+h1{
+  color: white; 
+  text-align: center;
+  font-size: 3rem;
+}
+
+h2{
+  text-align: center;
+  color: white;
+  font-size: 2rem;
+}
+
+.select-part{
+  display: flex;
+  justify-content: center;
+}
+
+label{
+  color: white;
+  font-size: 1.5rem;
+}
+
+select {
+  margin-left: 10px;
+  margin-top: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #666;
+  background-color: #555;
+  color: #F0F0F0;
+}
